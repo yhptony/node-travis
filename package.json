@@ -1,0 +1,15 @@
+{
+  "name": "hi-Travis",
+  "version": "0.0.1",
+  "description": "a demo for nodejs travic-ci and grunt",
+  "main": "server.js",
+  "scripts": {
+    "test": "grunt travis --verbose"
+  },
+  "author": "Tonny Yan",
+  "license": "ISC",
+  
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}
